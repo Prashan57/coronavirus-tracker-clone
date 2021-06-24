@@ -1,0 +1,11 @@
+//use .gitignore to keep up the privacy
+{
+    "rest-client.environmentVariables": {
+        "sandbox": {
+            "baseUrl": "https://ncov2019-admin.firebaseapp.com",
+            "authorization": "e0aa38619c8a5d0d11ae2ad3140302af1364676c6b7523829db920a5a710c0c5",
+            "accessToken": "16daa91c3461f2ec12de2a7a22fbd21f834aea62b7579acf24896482be212f36"
+        },
+        "production": {}
+    }
+}
